@@ -1,0 +1,7 @@
+C:\Users\Oleksiy\Desktop\zadania-sklania-platne\15-kolekcje\ProjKolekcje\ProjKolekcje\obj\Debug\ProjKolekcje.csprojResolveAssemblyReference.cache
+C:\Users\Oleksiy\Desktop\zadania-sklania-platne\15-kolekcje\ProjKolekcje\ProjKolekcje\obj\Debug\ProjKolekcje.csproj.CoreCompileInputs.cache
+C:\Users\Oleksiy\Desktop\zadania-sklania-platne\15-kolekcje\ProjKolekcje\ProjKolekcje\bin\Debug\ProjKolekcje.exe.config
+C:\Users\Oleksiy\Desktop\zadania-sklania-platne\15-kolekcje\ProjKolekcje\ProjKolekcje\bin\Debug\ProjKolekcje.exe
+C:\Users\Oleksiy\Desktop\zadania-sklania-platne\15-kolekcje\ProjKolekcje\ProjKolekcje\bin\Debug\ProjKolekcje.pdb
+C:\Users\Oleksiy\Desktop\zadania-sklania-platne\15-kolekcje\ProjKolekcje\ProjKolekcje\obj\Debug\ProjKolekcje.exe
+C:\Users\Oleksiy\Desktop\zadania-sklania-platne\15-kolekcje\ProjKolekcje\ProjKolekcje\obj\Debug\ProjKolekcje.pdb
